@@ -10,7 +10,6 @@ function App() {
             si ingroparea rozatoarelor
           </p>
         </section>
-        <p className="mt-4 text-sm font-semibold">Incheiat azi: 20.06.23</p>
       </header>
 
       <main className="mt-6">
